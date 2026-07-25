@@ -1,6 +1,10 @@
 # movie_app
 
-A new Flutter project.
+<p align="center">
+  <img src="./MovieAppUI%20(2).png" alt="Movie App UI" width="900">
+</p>
+
+A Flutter application for browsing and discovering movies.
 
 ## Getting Started
 
